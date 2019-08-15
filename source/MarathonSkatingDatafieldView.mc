@@ -134,7 +134,7 @@ class MarathonSkatingDatafieldView extends WatchUi.DataField {
 //    	var elapsedDistance = 12;
 //    	var elapsedTimeInSeconds = 180;
 	    
-    	var marathonFactor = 42125f / elapsedDistance; 
+    	var marathonFactor = 42195f / elapsedDistance; 
     	var secondsTotal = elapsedTimeInSeconds  * marathonFactor;    	    	
 	
 		var seconds = secondsTotal.toLong() % 60;
