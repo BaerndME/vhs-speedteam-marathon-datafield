@@ -1,4 +1,4 @@
-#vhs-speedteam Marathon Datafield
+# vhs-speedteam Marathon Datafield
 Datafield for Garmin Smartwatches, designed for Marathon Inlineskating. 
 
 Shows Valuable information such as Heartrate and Average Speed as well as an estimation for the finish time on 42125 meters. 
