@@ -1,0 +1,4 @@
+<properties>
+	<property id="AppVersion" type="string">0.1.0</property>
+	<property id="MarathonDistance" type="number">42195</property>
+</properties>
