@@ -15,123 +15,132 @@
         <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldBackground.mc" id="10" lineNum="21" pc="268435592" symbol="draw"/>
         <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldBackground.mc" id="10" lineNum="22" pc="268435596" symbol="draw"/>
         <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldBackground.mc" id="10" lineNum="23" pc="268435628" symbol="draw"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="12" lineNum="17" pc="268435641" symbol="initialize"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="12" lineNum="18" pc="268435645" symbol="initialize"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="12" lineNum="20" pc="268435663" symbol="initialize"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="12" lineNum="21" pc="268435676" symbol="initialize"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="12" lineNum="22" pc="268435689" symbol="initialize"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="12" lineNum="23" pc="268435702" symbol="initialize"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="12" lineNum="25" pc="268435715" symbol="initialize"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="12" lineNum="26" pc="268435728" symbol="initialize"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="12" lineNum="27" pc="268435741" symbol="initialize"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="13" lineNum="32" pc="268435755" symbol="onLayout"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="13" lineNum="33" pc="268435759" symbol="onLayout"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="13" lineNum="35" pc="268435802" symbol="onLayout"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="13" lineNum="36" pc="268435839" symbol="onLayout"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="13" lineNum="37" pc="268435876" symbol="onLayout"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="13" lineNum="38" pc="268435913" symbol="onLayout"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="13" lineNum="39" pc="268435950" symbol="onLayout"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="13" lineNum="40" pc="268435987" symbol="onLayout"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="13" lineNum="41" pc="268436024" symbol="onLayout"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="13" lineNum="42" pc="268436061" symbol="onLayout"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="14" lineNum="49" pc="268436065" symbol="compute"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="14" lineNum="51" pc="268436069" symbol="compute"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="14" lineNum="52" pc="268436090" symbol="compute"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="14" lineNum="53" pc="268436111" symbol="compute"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="14" lineNum="54" pc="268436132" symbol="compute"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="14" lineNum="56" pc="268436153" symbol="compute"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="14" lineNum="57" pc="268436172" symbol="compute"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="14" lineNum="58" pc="268436193" symbol="compute"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="22" lineNum="153" pc="268437018" symbol="onUpdate"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="22" lineNum="154" pc="268437022" symbol="onUpdate"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="22" lineNum="156" pc="268437065" symbol="onUpdate"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="22" lineNum="157" pc="268437089" symbol="onUpdate"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="22" lineNum="159" pc="268437123" symbol="onUpdate"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="22" lineNum="160" pc="268437147" symbol="onUpdate"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="22" lineNum="162" pc="268437181" symbol="onUpdate"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="22" lineNum="163" pc="268437205" symbol="onUpdate"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="22" lineNum="165" pc="268437239" symbol="onUpdate"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="22" lineNum="166" pc="268437263" symbol="onUpdate"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="22" lineNum="168" pc="268437283" symbol="onUpdate"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="22" lineNum="169" pc="268437307" symbol="onUpdate"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="22" lineNum="171" pc="268437327" symbol="onUpdate"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="22" lineNum="172" pc="268437351" symbol="onUpdate"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="22" lineNum="174" pc="268437385" symbol="onUpdate"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="22" lineNum="175" pc="268437409" symbol="onUpdate"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="22" lineNum="178" pc="268437429" symbol="onUpdate"/>
-        <entry filename="Rez" id="29" lineNum="19" pc="268437450" symbol="initialize"/>
-        <entry filename="Rez" id="29" lineNum="20" pc="268437454" symbol="initialize"/>
-        <entry filename="Rez" id="30" lineNum="23" pc="268437479" symbol="draw"/>
-        <entry filename="Rez" id="30" lineNum="24" pc="268437483" symbol="draw"/>
-        <entry filename="Rez" id="30" lineNum="25" pc="268437490" symbol="draw"/>
-        <entry filename="Rez" id="30" lineNum="26" pc="268437497" symbol="draw"/>
-        <entry filename="Rez" id="30" lineNum="27" pc="268437510" symbol="draw"/>
-        <entry filename="Rez" id="30" lineNum="28" pc="268437523" symbol="draw"/>
-        <entry filename="Rez" id="31" lineNum="31" pc="268437546" symbol="drawComplex"/>
-        <entry filename="Rez" id="31" lineNum="32" pc="268437550" symbol="drawComplex"/>
-        <entry filename="Rez" id="31" lineNum="33" pc="268437586" symbol="drawComplex"/>
-        <entry filename="Rez" id="31" lineNum="34" pc="268437630" symbol="drawComplex"/>
-        <entry filename="Rez" id="31" lineNum="36" pc="268437666" symbol="drawComplex"/>
-        <entry filename="Rez" id="31" lineNum="37" pc="268437702" symbol="drawComplex"/>
-        <entry filename="Rez" id="31" lineNum="39" pc="268437764" symbol="drawComplex"/>
-        <entry filename="Rez" id="31" lineNum="40" pc="268437800" symbol="drawComplex"/>
-        <entry filename="Rez" id="31" lineNum="42" pc="268437862" symbol="drawComplex"/>
-        <entry filename="Rez" id="31" lineNum="43" pc="268437898" symbol="drawComplex"/>
-        <entry filename="Rez" id="31" lineNum="45" pc="268437960" symbol="drawComplex"/>
-        <entry filename="Rez" id="31" lineNum="46" pc="268437996" symbol="drawComplex"/>
-        <entry filename="Rez" id="31" lineNum="48" pc="268438058" symbol="drawComplex"/>
-        <entry filename="Rez" id="31" lineNum="49" pc="268438094" symbol="drawComplex"/>
-        <entry filename="Rez" id="31" lineNum="51" pc="268438156" symbol="drawComplex"/>
-        <entry filename="Rez" id="31" lineNum="52" pc="268438192" symbol="drawComplex"/>
-        <entry filename="Rez" id="33" lineNum="67" pc="268438255" symbol="MainLayout"/>
-        <entry filename="Rez" id="33" lineNum="71" pc="268438267" symbol="MainLayout"/>
-        <entry filename="Rez" id="33" lineNum="72" pc="268438291" symbol="MainLayout"/>
-        <entry filename="Rez" id="33" lineNum="73" pc="268438327" symbol="MainLayout"/>
-        <entry filename="Rez" id="33" lineNum="74" pc="268438340" symbol="MainLayout"/>
-        <entry filename="Rez" id="33" lineNum="76" pc="268438356" symbol="MainLayout"/>
-        <entry filename="Rez" id="33" lineNum="77" pc="268438469" symbol="MainLayout"/>
-        <entry filename="Rez" id="33" lineNum="78" pc="268438582" symbol="MainLayout"/>
-        <entry filename="Rez" id="33" lineNum="79" pc="268438695" symbol="MainLayout"/>
-        <entry filename="Rez" id="33" lineNum="80" pc="268438828" symbol="MainLayout"/>
-        <entry filename="Rez" id="33" lineNum="81" pc="268438941" symbol="MainLayout"/>
-        <entry filename="Rez" id="33" lineNum="82" pc="268439074" symbol="MainLayout"/>
-        <entry filename="Rez" id="33" lineNum="83" pc="268439187" symbol="MainLayout"/>
-        <entry filename="Rez" id="33" lineNum="84" pc="268439300" symbol="MainLayout"/>
-        <entry filename="Rez" id="33" lineNum="85" pc="268439413" symbol="MainLayout"/>
-        <entry filename="Rez" id="33" lineNum="86" pc="268439526" symbol="MainLayout"/>
-        <entry filename="Rez" id="33" lineNum="87" pc="268439639" symbol="MainLayout"/>
-        <entry filename="Rez" id="33" lineNum="88" pc="268439752" symbol="MainLayout"/>
-        <entry filename="Rez" id="33" lineNum="89" pc="268439865" symbol="MainLayout"/>
-        <entry filename="Rez" id="33" lineNum="92" pc="268439978" symbol="MainLayout"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="12" lineNum="20" pc="268435641" symbol="initialize"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="12" lineNum="21" pc="268435645" symbol="initialize"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="12" lineNum="23" pc="268435663" symbol="initialize"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="12" lineNum="24" pc="268435676" symbol="initialize"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="12" lineNum="25" pc="268435689" symbol="initialize"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="12" lineNum="26" pc="268435702" symbol="initialize"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="12" lineNum="28" pc="268435715" symbol="initialize"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="12" lineNum="29" pc="268435728" symbol="initialize"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="12" lineNum="30" pc="268435741" symbol="initialize"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="12" lineNum="32" pc="268435754" symbol="initialize"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="12" lineNum="34" pc="268435767" symbol="initialize"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="12" lineNum="36" pc="268435779" symbol="initialize"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="13" lineNum="39" pc="268435792" symbol="onSettingsChanged"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="13" lineNum="40" pc="268435796" symbol="onSettingsChanged"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="14" lineNum="45" pc="268435809" symbol="onLayout"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="14" lineNum="46" pc="268435813" symbol="onLayout"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="14" lineNum="48" pc="268435856" symbol="onLayout"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="14" lineNum="49" pc="268435893" symbol="onLayout"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="14" lineNum="50" pc="268435930" symbol="onLayout"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="14" lineNum="51" pc="268435967" symbol="onLayout"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="14" lineNum="52" pc="268436004" symbol="onLayout"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="14" lineNum="53" pc="268436041" symbol="onLayout"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="14" lineNum="54" pc="268436078" symbol="onLayout"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="14" lineNum="55" pc="268436115" symbol="onLayout"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="15" lineNum="63" pc="268436119" symbol="compute"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="15" lineNum="65" pc="268436123" symbol="compute"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="15" lineNum="66" pc="268436144" symbol="compute"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="15" lineNum="67" pc="268436165" symbol="compute"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="15" lineNum="68" pc="268436186" symbol="compute"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="15" lineNum="70" pc="268436207" symbol="compute"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="15" lineNum="71" pc="268436226" symbol="compute"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="15" lineNum="72" pc="268436247" symbol="compute"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="16" lineNum="79" pc="268436269" symbol="onUpdate"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="16" lineNum="80" pc="268436273" symbol="onUpdate"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="16" lineNum="82" pc="268436316" symbol="onUpdate"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="16" lineNum="83" pc="268436340" symbol="onUpdate"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="16" lineNum="85" pc="268436374" symbol="onUpdate"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="16" lineNum="86" pc="268436398" symbol="onUpdate"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="16" lineNum="88" pc="268436432" symbol="onUpdate"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="16" lineNum="89" pc="268436456" symbol="onUpdate"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="16" lineNum="91" pc="268436490" symbol="onUpdate"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="16" lineNum="92" pc="268436514" symbol="onUpdate"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="16" lineNum="94" pc="268436534" symbol="onUpdate"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="16" lineNum="95" pc="268436558" symbol="onUpdate"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="16" lineNum="97" pc="268436578" symbol="onUpdate"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="16" lineNum="98" pc="268436602" symbol="onUpdate"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="16" lineNum="100" pc="268436636" symbol="onUpdate"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="16" lineNum="101" pc="268436660" symbol="onUpdate"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="16" lineNum="104" pc="268436680" symbol="onUpdate"/>
+        <entry filename="Rez" id="32" lineNum="20" pc="268437754" symbol="initialize"/>
+        <entry filename="Rez" id="32" lineNum="21" pc="268437758" symbol="initialize"/>
+        <entry filename="Rez" id="33" lineNum="24" pc="268437783" symbol="draw"/>
+        <entry filename="Rez" id="33" lineNum="25" pc="268437787" symbol="draw"/>
+        <entry filename="Rez" id="33" lineNum="26" pc="268437794" symbol="draw"/>
+        <entry filename="Rez" id="33" lineNum="27" pc="268437801" symbol="draw"/>
+        <entry filename="Rez" id="33" lineNum="28" pc="268437814" symbol="draw"/>
+        <entry filename="Rez" id="33" lineNum="29" pc="268437827" symbol="draw"/>
+        <entry filename="Rez" id="34" lineNum="32" pc="268437850" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="33" pc="268437854" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="34" pc="268437890" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="35" pc="268437934" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="37" pc="268437970" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="38" pc="268438006" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="40" pc="268438068" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="41" pc="268438104" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="43" pc="268438166" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="44" pc="268438202" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="46" pc="268438264" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="47" pc="268438300" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="49" pc="268438362" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="50" pc="268438398" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="52" pc="268438460" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="53" pc="268438496" symbol="drawComplex"/>
+        <entry filename="Rez" id="36" lineNum="68" pc="268438559" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="72" pc="268438571" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="73" pc="268438595" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="74" pc="268438631" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="75" pc="268438644" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="77" pc="268438660" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="78" pc="268438773" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="79" pc="268438886" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="80" pc="268438999" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="81" pc="268439132" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="82" pc="268439245" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="83" pc="268439378" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="84" pc="268439491" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="85" pc="268439604" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="86" pc="268439717" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="87" pc="268439830" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="88" pc="268439943" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="89" pc="268440056" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="90" pc="268440169" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="93" pc="268440282" symbol="MainLayout"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="10" object="true" symbol="MarathonSkatingDatafieldView"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
         <entry id="8389349" symbol="justification"/>
-        <entry id="19" method="true" symbol="&lt;globals/MarathonSkatingDatafieldView/&lt;&gt;computeDistance&gt;"/>
+        <entry id="8390424" module="true" symbol="Storage"/>
+        <entry id="23" method="true" symbol="&lt;globals/MarathonSkatingDatafieldView/&lt;&gt;computeDistance&gt;"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
         <entry field="true" id="12" symbol="clockTime"/>
+        <entry id="18" method="true" symbol="&lt;globals/MarathonSkatingDatafieldView/&lt;&gt;loadSettings&gt;"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
-        <entry field="true" id="8389138" symbol="label"/>
-        <entry id="18" method="true" symbol="&lt;globals/MarathonSkatingDatafieldView/&lt;&gt;computeHeartRate&gt;"/>
+        <entry field="true" id="17" symbol="APP_VERSION"/>
+        <entry id="22" method="true" symbol="&lt;globals/MarathonSkatingDatafieldView/&lt;&gt;computeHeartRate&gt;"/>
+        <entry field="true" id="34" symbol="MarathonDistance"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8389068" method="true" symbol="draw"/>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry id="28" method="true" symbol="MainLayout"/>
+        <entry id="32" method="true" symbol="MainLayout"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
-        <entry id="22" method="true" symbol="&lt;globals/MarathonSkatingDatafieldView/&lt;&gt;computeMarathonTime&gt;"/>
-        <entry id="27" method="true" symbol="drawComplex"/>
-        <entry id="20" method="true" symbol="&lt;globals/MarathonSkatingDatafieldView/&lt;&gt;computeClockTime&gt;"/>
-        <entry id="26" object="true" symbol="raster"/>
+        <entry id="26" method="true" symbol="&lt;globals/MarathonSkatingDatafieldView/&lt;&gt;computeMarathonTime&gt;"/>
+        <entry id="31" method="true" symbol="drawComplex"/>
+        <entry id="24" method="true" symbol="&lt;globals/MarathonSkatingDatafieldView/&lt;&gt;computeClockTime&gt;"/>
+        <entry id="30" object="true" symbol="raster"/>
         <entry field="true" id="8389130" symbol="mColor"/>
         <entry id="8389131" method="true" symbol="setColor"/>
         <entry id="8388702" method="true" symbol="initialize"/>
-        <entry field="true" id="29" symbol="AppName"/>
+        <entry field="true" id="35" symbol="AppName"/>
         <entry id="9" object="true" symbol="MarathonSkatingDatafieldApp"/>
         <entry id="8390146" module="true" object="true" symbol="Background"/>
-        <entry id="21" method="true" symbol="&lt;globals/MarathonSkatingDatafieldView/&lt;&gt;computeTrainingTime&gt;"/>
+        <entry id="25" method="true" symbol="&lt;globals/MarathonSkatingDatafieldView/&lt;&gt;computeTrainingTime&gt;"/>
         <entry field="true" id="11" symbol="heartrate"/>
-        <entry field="true" id="25" symbol="LauncherIcon"/>
+        <entry field="true" id="29" symbol="LauncherIcon"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
         <entry id="8389281" method="true" symbol="onStop"/>
         <entry field="true" id="8389065" symbol="locY"/>
@@ -145,16 +154,19 @@
         <entry id="8389348" symbol="font"/>
         <entry id="8389347" symbol="color"/>
         <entry field="true" id="13" symbol="marathonTime"/>
+        <entry field="true" id="33" symbol="AppVersion"/>
         <entry field="true" id="8388739" symbol="averageSpeed"/>
         <entry field="true" id="8388911" symbol="distance"/>
-        <entry id="24" module="true" symbol="Layouts"/>
+        <entry id="28" module="true" symbol="Layouts"/>
         <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="19" method="true" symbol="&lt;globals/MarathonSkatingDatafieldView/&lt;&gt;saveSettings&gt;"/>
         <entry field="true" id="8389063" symbol="identifier"/>
-        <entry id="23" module="true" symbol="Menus"/>
-        <entry id="17" method="true" symbol="&lt;globals/MarathonSkatingDatafieldView/&lt;&gt;computeAverageSpeed&gt;"/>
+        <entry id="27" module="true" symbol="Menus"/>
+        <entry id="21" method="true" symbol="&lt;globals/MarathonSkatingDatafieldView/&lt;&gt;computeAverageSpeed&gt;"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-        <entry field="true" id="15" symbol="DEFAULT_TIME"/>
-        <entry id="16" method="true" symbol="&lt;globals/MarathonSkatingDatafieldView/&lt;&gt;computeCurrentSpeed&gt;"/>
+        <entry field="true" id="15" symbol="setting_competitionDistance"/>
+        <entry field="true" id="16" symbol="DEFAULT_TIME"/>
+        <entry id="20" method="true" symbol="&lt;globals/MarathonSkatingDatafieldView/&lt;&gt;computeCurrentSpeed&gt;"/>
         <entry id="8388635" module="true" symbol="Application"/>
     </symbolTable>
     <localVars>
@@ -163,66 +175,66 @@
         <entry endPc="268435576" name="dictionary" stackId="1" startPc="268435535"/>
         <entry endPc="268435592" name="color" stackId="1" startPc="268435577"/>
         <entry endPc="268435641" name="dc" stackId="1" startPc="268435592"/>
-        <entry endPc="268436065" name="dc" stackId="1" startPc="268435755"/>
-        <entry endPc="268436215" name="info" stackId="1" startPc="268436065"/>
-        <entry endPc="268436251" name="speedAsKmh" stackId="2" startPc="268436232"/>
-        <entry endPc="268436261" name="info" stackId="1" startPc="268436215"/>
-        <entry endPc="268436297" name="speedAsKmh" stackId="2" startPc="268436278"/>
-        <entry endPc="268436307" name="info" stackId="1" startPc="268436261"/>
-        <entry endPc="268436343" name="info" stackId="1" startPc="268436307"/>
-        <entry endPc="268436385" name="info" stackId="1" startPc="268436343"/>
-        <entry endPc="268436487" name="timeString" stackId="2" startPc="268436389"/>
-        <entry endPc="268436487" name="clockTime" stackId="1" startPc="268436389"/>
-        <entry endPc="268436695" name="hours" stackId="5" startPc="268436505"/>
-        <entry endPc="268436695" name="minutes" stackId="4" startPc="268436505"/>
-        <entry endPc="268436695" name="timeString" stackId="6" startPc="268436505"/>
-        <entry endPc="268436695" name="seconds" stackId="3" startPc="268436505"/>
-        <entry endPc="268436695" name="secondsTotal" stackId="2" startPc="268436505"/>
-        <entry endPc="268436708" name="info" stackId="1" startPc="268436488"/>
-        <entry endPc="268437017" name="hours" stackId="8" startPc="268436712"/>
-        <entry endPc="268437017" name="minutes" stackId="7" startPc="268436712"/>
-        <entry endPc="268437017" name="elapsedTimeInSeconds" stackId="3" startPc="268436712"/>
-        <entry endPc="268437017" name="timeString" stackId="9" startPc="268436712"/>
-        <entry endPc="268437017" name="marathonFactor" stackId="4" startPc="268436712"/>
-        <entry endPc="268437017" name="elapsedDistance" stackId="2" startPc="268436712"/>
-        <entry endPc="268437017" name="seconds" stackId="6" startPc="268436712"/>
-        <entry endPc="268437017" name="secondsTotal" stackId="5" startPc="268436712"/>
-        <entry endPc="268437018" name="info" stackId="1" startPc="268436708"/>
-        <entry endPc="268437449" name="trainingTimeValue" stackId="5" startPc="268437022"/>
-        <entry endPc="268437449" name="heartrateValue" stackId="4" startPc="268437022"/>
-        <entry endPc="268437449" name="avgSpeedValue" stackId="3" startPc="268437022"/>
-        <entry endPc="268437449" name="distanceValue" stackId="7" startPc="268437022"/>
-        <entry endPc="268437449" name="marathonValue" stackId="8" startPc="268437022"/>
-        <entry endPc="268437449" name="curSpeedValue" stackId="2" startPc="268437022"/>
-        <entry endPc="268437449" name="clockValue" stackId="6" startPc="268437022"/>
-        <entry endPc="268437450" name="dc" stackId="1" startPc="268437018"/>
-        <entry endPc="268437545" name="pWidth" stackId="4" startPc="268437483"/>
-        <entry endPc="268437545" name="pY" stackId="3" startPc="268437483"/>
-        <entry endPc="268437545" name="pX" stackId="2" startPc="268437483"/>
-        <entry endPc="268437545" name="pHeight" stackId="5" startPc="268437483"/>
-        <entry endPc="268437546" name="dc" stackId="1" startPc="268437479"/>
-        <entry endPc="268438255" name="pWidth" stackId="4" startPc="268437546"/>
-        <entry endPc="268438255" name="dc" stackId="1" startPc="268437546"/>
-        <entry endPc="268438255" name="pY" stackId="3" startPc="268437546"/>
-        <entry endPc="268438255" name="pX" stackId="2" startPc="268437546"/>
-        <entry endPc="268438255" name="pHeight" stackId="5" startPc="268437546"/>
-        <entry endPc="268440145" name="rez_cmp_local_bitmap_distanceLabel" stackId="14" startPc="268438267"/>
-        <entry endPc="268440145" name="rez_cmp_local_bitmap_distanceValue" stackId="15" startPc="268438267"/>
-        <entry endPc="268440145" name="rez_cmp_local_custom_drawable_raster" stackId="3" startPc="268438267"/>
-        <entry endPc="268440145" name="rez_cmp_local_bitmap_trainingTimeLabel" stackId="12" startPc="268438267"/>
-        <entry endPc="268440145" name="rez_cmp_local_custom_drawable_17492329611824160927" stackId="2" startPc="268438267"/>
-        <entry endPc="268440145" name="rez_cmp_local_bitmap_trainingTimeValue" stackId="13" startPc="268438267"/>
-        <entry endPc="268440145" name="rez_cmp_local_bitmap_clockLabel" stackId="4" startPc="268438267"/>
-        <entry endPc="268440145" name="rez_cmp_local_bitmap_curSpeedLabel" stackId="6" startPc="268438267"/>
-        <entry endPc="268440145" name="rez_cmp_local_bitmap_avgSpeedLabel" stackId="8" startPc="268438267"/>
-        <entry endPc="268440145" name="rez_cmp_local_bitmap_clockValue" stackId="5" startPc="268438267"/>
-        <entry endPc="268440145" name="rez_cmp_local_bitmap_curSpeedValue" stackId="7" startPc="268438267"/>
-        <entry endPc="268440145" name="rez_cmp_local_bitmap_avgSpeedValue" stackId="9" startPc="268438267"/>
-        <entry endPc="268440145" name="rez_cmp_local_bitmap_marathonLabel" stackId="16" startPc="268438267"/>
-        <entry endPc="268440145" name="rez_cmp_local_bitmap_heartrateLabel" stackId="10" startPc="268438267"/>
-        <entry endPc="268440145" name="rez_cmp_local_bitmap_marathonValue" stackId="17" startPc="268438267"/>
-        <entry endPc="268440145" name="rez_cmp_local_bitmap_heartrateValue" stackId="11" startPc="268438267"/>
-        <entry endPc="268440146" name="dc" stackId="1" startPc="268438255"/>
+        <entry endPc="268436119" name="dc" stackId="1" startPc="268435809"/>
+        <entry endPc="268436269" name="info" stackId="1" startPc="268436119"/>
+        <entry endPc="268436700" name="trainingTimeValue" stackId="5" startPc="268436273"/>
+        <entry endPc="268436700" name="heartrateValue" stackId="4" startPc="268436273"/>
+        <entry endPc="268436700" name="avgSpeedValue" stackId="3" startPc="268436273"/>
+        <entry endPc="268436700" name="distanceValue" stackId="7" startPc="268436273"/>
+        <entry endPc="268436700" name="marathonValue" stackId="8" startPc="268436273"/>
+        <entry endPc="268436700" name="curSpeedValue" stackId="2" startPc="268436273"/>
+        <entry endPc="268436700" name="clockValue" stackId="6" startPc="268436273"/>
+        <entry endPc="268436701" name="dc" stackId="1" startPc="268436269"/>
+        <entry endPc="268436984" name="speedAsKmh" stackId="2" startPc="268436965"/>
+        <entry endPc="268436994" name="info" stackId="1" startPc="268436948"/>
+        <entry endPc="268437030" name="speedAsKmh" stackId="2" startPc="268437011"/>
+        <entry endPc="268437040" name="info" stackId="1" startPc="268436994"/>
+        <entry endPc="268437076" name="info" stackId="1" startPc="268437040"/>
+        <entry endPc="268437118" name="info" stackId="1" startPc="268437076"/>
+        <entry endPc="268437220" name="timeString" stackId="2" startPc="268437122"/>
+        <entry endPc="268437220" name="clockTime" stackId="1" startPc="268437122"/>
+        <entry endPc="268437428" name="hours" stackId="5" startPc="268437238"/>
+        <entry endPc="268437428" name="minutes" stackId="4" startPc="268437238"/>
+        <entry endPc="268437428" name="timeString" stackId="6" startPc="268437238"/>
+        <entry endPc="268437428" name="seconds" stackId="3" startPc="268437238"/>
+        <entry endPc="268437428" name="secondsTotal" stackId="2" startPc="268437238"/>
+        <entry endPc="268437441" name="info" stackId="1" startPc="268437221"/>
+        <entry endPc="268437753" name="hours" stackId="8" startPc="268437445"/>
+        <entry endPc="268437753" name="minutes" stackId="7" startPc="268437445"/>
+        <entry endPc="268437753" name="elapsedTimeInSeconds" stackId="3" startPc="268437445"/>
+        <entry endPc="268437753" name="timeString" stackId="9" startPc="268437445"/>
+        <entry endPc="268437753" name="marathonFactor" stackId="4" startPc="268437445"/>
+        <entry endPc="268437753" name="elapsedDistance" stackId="2" startPc="268437445"/>
+        <entry endPc="268437753" name="seconds" stackId="6" startPc="268437445"/>
+        <entry endPc="268437753" name="secondsTotal" stackId="5" startPc="268437445"/>
+        <entry endPc="268437754" name="info" stackId="1" startPc="268437441"/>
+        <entry endPc="268437849" name="pWidth" stackId="4" startPc="268437787"/>
+        <entry endPc="268437849" name="pY" stackId="3" startPc="268437787"/>
+        <entry endPc="268437849" name="pX" stackId="2" startPc="268437787"/>
+        <entry endPc="268437849" name="pHeight" stackId="5" startPc="268437787"/>
+        <entry endPc="268437850" name="dc" stackId="1" startPc="268437783"/>
+        <entry endPc="268438559" name="pWidth" stackId="4" startPc="268437850"/>
+        <entry endPc="268438559" name="dc" stackId="1" startPc="268437850"/>
+        <entry endPc="268438559" name="pY" stackId="3" startPc="268437850"/>
+        <entry endPc="268438559" name="pX" stackId="2" startPc="268437850"/>
+        <entry endPc="268438559" name="pHeight" stackId="5" startPc="268437850"/>
+        <entry endPc="268440449" name="rez_cmp_local_bitmap_distanceLabel" stackId="14" startPc="268438571"/>
+        <entry endPc="268440449" name="rez_cmp_local_bitmap_distanceValue" stackId="15" startPc="268438571"/>
+        <entry endPc="268440449" name="rez_cmp_local_custom_drawable_raster" stackId="3" startPc="268438571"/>
+        <entry endPc="268440449" name="rez_cmp_local_custom_drawable_45420459814331185412" stackId="2" startPc="268438571"/>
+        <entry endPc="268440449" name="rez_cmp_local_bitmap_trainingTimeLabel" stackId="12" startPc="268438571"/>
+        <entry endPc="268440449" name="rez_cmp_local_bitmap_trainingTimeValue" stackId="13" startPc="268438571"/>
+        <entry endPc="268440449" name="rez_cmp_local_bitmap_clockLabel" stackId="4" startPc="268438571"/>
+        <entry endPc="268440449" name="rez_cmp_local_bitmap_curSpeedLabel" stackId="6" startPc="268438571"/>
+        <entry endPc="268440449" name="rez_cmp_local_bitmap_avgSpeedLabel" stackId="8" startPc="268438571"/>
+        <entry endPc="268440449" name="rez_cmp_local_bitmap_clockValue" stackId="5" startPc="268438571"/>
+        <entry endPc="268440449" name="rez_cmp_local_bitmap_curSpeedValue" stackId="7" startPc="268438571"/>
+        <entry endPc="268440449" name="rez_cmp_local_bitmap_avgSpeedValue" stackId="9" startPc="268438571"/>
+        <entry endPc="268440449" name="rez_cmp_local_bitmap_marathonLabel" stackId="16" startPc="268438571"/>
+        <entry endPc="268440449" name="rez_cmp_local_bitmap_heartrateLabel" stackId="10" startPc="268438571"/>
+        <entry endPc="268440449" name="rez_cmp_local_bitmap_marathonValue" stackId="17" startPc="268438571"/>
+        <entry endPc="268440449" name="rez_cmp_local_bitmap_heartrateValue" stackId="11" startPc="268438571"/>
+        <entry endPc="268440450" name="dc" stackId="1" startPc="268438559"/>
     </localVars>
     <annotations/>
     <functions>
@@ -256,12 +268,25 @@
         <functionEntry accessMode="public" name="initialize" parent="MarathonSkatingDatafieldView">
             <documentation/>
         </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="MarathonSkatingDatafieldView">
+            <documentation/>
+        </functionEntry>
         <functionEntry accessMode="public" name="onLayout" parent="MarathonSkatingDatafieldView">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="compute" parent="MarathonSkatingDatafieldView">
             <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="MarathonSkatingDatafieldView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/MarathonSkatingDatafieldView/&lt;&gt;loadSettings&gt;" parent="MarathonSkatingDatafieldView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/MarathonSkatingDatafieldView/&lt;&gt;saveSettings&gt;" parent="MarathonSkatingDatafieldView">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="private" name="&lt;globals/MarathonSkatingDatafieldView/&lt;&gt;computeCurrentSpeed&gt;" parent="MarathonSkatingDatafieldView">
@@ -291,10 +316,6 @@
             <param id="info"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onUpdate" parent="MarathonSkatingDatafieldView">
-            <param id="dc"/>
-            <documentation/>
-        </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="raster">
             <documentation/>
         </functionEntry>
@@ -322,13 +343,13 @@
         <dataEntry offset="182" parentId="globals" symbolId="Background" type="class"/>
         <dataEntry offset="253" parentId="globals" symbolId="MarathonSkatingDatafieldApp" type="class"/>
         <dataEntry offset="324" parentId="globals" symbolId="MarathonSkatingDatafieldView" type="class"/>
-        <dataEntry offset="515" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry offset="594" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry offset="641" parentId="Drawables" symbolId="raster" type="class"/>
-        <dataEntry offset="704" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry offset="735" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry offset="766" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry offset="797" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry offset="836" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="555" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="634" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="681" parentId="Drawables" symbolId="raster" type="class"/>
+        <dataEntry offset="744" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="775" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="806" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="837" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="876" parentId="Rez" symbolId="Strings" type="module"/>
     </dataEntryOffsetMappings>
 </debugInfo>

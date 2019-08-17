@@ -12,7 +12,10 @@ class MarathonSkatingDatafieldView extends WatchUi.DataField {
     hidden var marathonTime;
     hidden var trainingTime;
     
+    hidden var setting_competitionDistance;
+    
     hidden var DEFAULT_TIME = "00:00:00";
+    hidden var APP_VERSION = "0.1.1";
 
     function initialize() {
         DataField.initialize();
@@ -25,6 +28,16 @@ class MarathonSkatingDatafieldView extends WatchUi.DataField {
         clockTime = "Uhrzeit";
         marathonTime = "MaraTimer";
         trainingTime = "TrainTime";
+        
+        setting_competitionDistance = 42195;
+        
+        loadSettings();
+        
+        saveSettings();
+    }
+    
+    function onSettingsChanged(){
+    	loadSettings();
     }
 
     // Set your layout here. Anytime the size of obscurity of
@@ -41,7 +54,8 @@ class MarathonSkatingDatafieldView extends WatchUi.DataField {
         View.findDrawableById("marathonLabel").setText("Time 42");
         return true;
     }
-
+    
+        
     // The given info object contains all the current workout information.
     // Calculate a value and save it locally in this method.
     // Note that compute() and onUpdate() are asynchronous, and there is no
@@ -58,6 +72,58 @@ class MarathonSkatingDatafieldView extends WatchUi.DataField {
         marathonTime = computeMarathonTime(info);
         
 //        System.println("c:"+currentSpeed+" a:"+averageSpeed+" h: "+heartrate+" t: "+clockTime+" d: "+trainingTime);
+    }
+    
+    // Display the value you computed here. This will be called
+    // once a second when the data field is visible.
+    function onUpdate(dc) {
+     	View.findDrawableById("Background").setColor(getBackgroundColor());
+     
+		var curSpeedValue = View.findDrawableById("curSpeedValue");
+		curSpeedValue.setText(currentSpeed.format("%.1f"));
+		
+		var avgSpeedValue = View.findDrawableById("avgSpeedValue");
+		avgSpeedValue.setText(averageSpeed.format("%.1f"));
+		
+		var heartrateValue = View.findDrawableById("heartrateValue");
+		heartrateValue.setText(heartrate.format("%02d"));
+		
+		var trainingTimeValue = View.findDrawableById("trainingTimeValue");
+		trainingTimeValue.setText(trainingTime);
+		
+		var clockValue = View.findDrawableById("clockValue");
+		clockValue.setText(clockTime);
+		
+		var distanceValue = View.findDrawableById("distanceValue");
+		distanceValue.setText(distance.format("%02.2f"));
+		
+		var marathonValue = View.findDrawableById("marathonValue");
+		marathonValue.setText(marathonTime);		
+		
+        // Call parent's onUpdate(dc) to redraw the layout
+        View.onUpdate(dc);
+    }
+    
+    // functions
+
+    private function loadSettings(){
+    	if ( Toybox.Application has :Storage ) {
+		    setting_competitionDistance = Application.Properties.getValue("MarathonDistance");
+		} else {
+		    setting_competitionDistance = Application.getApp().getProperty("MarathonDistance");
+		}		    
+    	
+    	if (setting_competitionDistance < 2){
+    		setting_competitionDistance = 42195;
+    	}
+    }
+    
+    private function saveSettings(){
+    	if ( Toybox.Application has :Storage ) {
+		    Application.Properties.setValue("AppVersion", APP_VERSION);
+		} else {
+		    Application.getApp().setProperty("AppVersion", APP_VERSION);
+		}
     }
     
     private function computeCurrentSpeed(info) {
@@ -134,7 +200,7 @@ class MarathonSkatingDatafieldView extends WatchUi.DataField {
 //    	var elapsedDistance = 12;
 //    	var elapsedTimeInSeconds = 180;
 	    
-    	var marathonFactor = 42195f / elapsedDistance; 
+    	var marathonFactor = setting_competitionDistance / elapsedDistance; 
     	var secondsTotal = elapsedTimeInSeconds  * marathonFactor;    	    	
 	
 		var seconds = secondsTotal.toLong() % 60;
@@ -146,35 +212,5 @@ class MarathonSkatingDatafieldView extends WatchUi.DataField {
 		
 		var timeString =  Lang.format("$1$:$2$:$3$", [hours.format("%02d"), minutes.format("%02d"), seconds.format("%02d")]);
         return timeString;
-    }   
-
-    // Display the value you computed here. This will be called
-    // once a second when the data field is visible.
-    function onUpdate(dc) {
-     	View.findDrawableById("Background").setColor(getBackgroundColor());
-     
-		var curSpeedValue = View.findDrawableById("curSpeedValue");
-		curSpeedValue.setText(currentSpeed.format("%.1f"));
-		
-		var avgSpeedValue = View.findDrawableById("avgSpeedValue");
-		avgSpeedValue.setText(averageSpeed.format("%.1f"));
-		
-		var heartrateValue = View.findDrawableById("heartrateValue");
-		heartrateValue.setText(heartrate.format("%02d"));
-		
-		var trainingTimeValue = View.findDrawableById("trainingTimeValue");
-		trainingTimeValue.setText(trainingTime);
-		
-		var clockValue = View.findDrawableById("clockValue");
-		clockValue.setText(clockTime);
-		
-		var distanceValue = View.findDrawableById("distanceValue");
-		distanceValue.setText(distance.format("%02.2f"));
-		
-		var marathonValue = View.findDrawableById("marathonValue");
-		marathonValue.setText(marathonTime);		
-		
-        // Call parent's onUpdate(dc) to redraw the layout
-        View.onUpdate(dc);
-    }
+    }    
 }
