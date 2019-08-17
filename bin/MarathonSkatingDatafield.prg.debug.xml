@@ -64,50 +64,50 @@
         <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="16" lineNum="100" pc="268436636" symbol="onUpdate"/>
         <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="16" lineNum="101" pc="268436660" symbol="onUpdate"/>
         <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="16" lineNum="104" pc="268436680" symbol="onUpdate"/>
-        <entry filename="Rez" id="32" lineNum="20" pc="268437754" symbol="initialize"/>
-        <entry filename="Rez" id="32" lineNum="21" pc="268437758" symbol="initialize"/>
-        <entry filename="Rez" id="33" lineNum="24" pc="268437783" symbol="draw"/>
-        <entry filename="Rez" id="33" lineNum="25" pc="268437787" symbol="draw"/>
-        <entry filename="Rez" id="33" lineNum="26" pc="268437794" symbol="draw"/>
-        <entry filename="Rez" id="33" lineNum="27" pc="268437801" symbol="draw"/>
-        <entry filename="Rez" id="33" lineNum="28" pc="268437814" symbol="draw"/>
-        <entry filename="Rez" id="33" lineNum="29" pc="268437827" symbol="draw"/>
-        <entry filename="Rez" id="34" lineNum="32" pc="268437850" symbol="drawComplex"/>
-        <entry filename="Rez" id="34" lineNum="33" pc="268437854" symbol="drawComplex"/>
-        <entry filename="Rez" id="34" lineNum="34" pc="268437890" symbol="drawComplex"/>
-        <entry filename="Rez" id="34" lineNum="35" pc="268437934" symbol="drawComplex"/>
-        <entry filename="Rez" id="34" lineNum="37" pc="268437970" symbol="drawComplex"/>
-        <entry filename="Rez" id="34" lineNum="38" pc="268438006" symbol="drawComplex"/>
-        <entry filename="Rez" id="34" lineNum="40" pc="268438068" symbol="drawComplex"/>
-        <entry filename="Rez" id="34" lineNum="41" pc="268438104" symbol="drawComplex"/>
-        <entry filename="Rez" id="34" lineNum="43" pc="268438166" symbol="drawComplex"/>
-        <entry filename="Rez" id="34" lineNum="44" pc="268438202" symbol="drawComplex"/>
-        <entry filename="Rez" id="34" lineNum="46" pc="268438264" symbol="drawComplex"/>
-        <entry filename="Rez" id="34" lineNum="47" pc="268438300" symbol="drawComplex"/>
-        <entry filename="Rez" id="34" lineNum="49" pc="268438362" symbol="drawComplex"/>
-        <entry filename="Rez" id="34" lineNum="50" pc="268438398" symbol="drawComplex"/>
-        <entry filename="Rez" id="34" lineNum="52" pc="268438460" symbol="drawComplex"/>
-        <entry filename="Rez" id="34" lineNum="53" pc="268438496" symbol="drawComplex"/>
-        <entry filename="Rez" id="36" lineNum="68" pc="268438559" symbol="MainLayout"/>
-        <entry filename="Rez" id="36" lineNum="72" pc="268438571" symbol="MainLayout"/>
-        <entry filename="Rez" id="36" lineNum="73" pc="268438595" symbol="MainLayout"/>
-        <entry filename="Rez" id="36" lineNum="74" pc="268438631" symbol="MainLayout"/>
-        <entry filename="Rez" id="36" lineNum="75" pc="268438644" symbol="MainLayout"/>
-        <entry filename="Rez" id="36" lineNum="77" pc="268438660" symbol="MainLayout"/>
-        <entry filename="Rez" id="36" lineNum="78" pc="268438773" symbol="MainLayout"/>
-        <entry filename="Rez" id="36" lineNum="79" pc="268438886" symbol="MainLayout"/>
-        <entry filename="Rez" id="36" lineNum="80" pc="268438999" symbol="MainLayout"/>
-        <entry filename="Rez" id="36" lineNum="81" pc="268439132" symbol="MainLayout"/>
-        <entry filename="Rez" id="36" lineNum="82" pc="268439245" symbol="MainLayout"/>
-        <entry filename="Rez" id="36" lineNum="83" pc="268439378" symbol="MainLayout"/>
-        <entry filename="Rez" id="36" lineNum="84" pc="268439491" symbol="MainLayout"/>
-        <entry filename="Rez" id="36" lineNum="85" pc="268439604" symbol="MainLayout"/>
-        <entry filename="Rez" id="36" lineNum="86" pc="268439717" symbol="MainLayout"/>
-        <entry filename="Rez" id="36" lineNum="87" pc="268439830" symbol="MainLayout"/>
-        <entry filename="Rez" id="36" lineNum="88" pc="268439943" symbol="MainLayout"/>
-        <entry filename="Rez" id="36" lineNum="89" pc="268440056" symbol="MainLayout"/>
-        <entry filename="Rez" id="36" lineNum="90" pc="268440169" symbol="MainLayout"/>
-        <entry filename="Rez" id="36" lineNum="93" pc="268440282" symbol="MainLayout"/>
+        <entry filename="Rez" id="32" lineNum="20" pc="268437651" symbol="initialize"/>
+        <entry filename="Rez" id="32" lineNum="21" pc="268437655" symbol="initialize"/>
+        <entry filename="Rez" id="33" lineNum="24" pc="268437680" symbol="draw"/>
+        <entry filename="Rez" id="33" lineNum="25" pc="268437684" symbol="draw"/>
+        <entry filename="Rez" id="33" lineNum="26" pc="268437691" symbol="draw"/>
+        <entry filename="Rez" id="33" lineNum="27" pc="268437698" symbol="draw"/>
+        <entry filename="Rez" id="33" lineNum="28" pc="268437711" symbol="draw"/>
+        <entry filename="Rez" id="33" lineNum="29" pc="268437724" symbol="draw"/>
+        <entry filename="Rez" id="34" lineNum="32" pc="268437747" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="33" pc="268437751" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="34" pc="268437787" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="35" pc="268437831" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="37" pc="268437867" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="38" pc="268437903" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="40" pc="268437965" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="41" pc="268438001" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="43" pc="268438063" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="44" pc="268438099" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="46" pc="268438161" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="47" pc="268438197" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="49" pc="268438259" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="50" pc="268438295" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="52" pc="268438357" symbol="drawComplex"/>
+        <entry filename="Rez" id="34" lineNum="53" pc="268438393" symbol="drawComplex"/>
+        <entry filename="Rez" id="36" lineNum="68" pc="268438456" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="72" pc="268438468" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="73" pc="268438492" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="74" pc="268438528" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="75" pc="268438541" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="77" pc="268438557" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="78" pc="268438670" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="79" pc="268438783" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="80" pc="268438896" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="81" pc="268439029" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="82" pc="268439142" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="83" pc="268439275" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="84" pc="268439388" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="85" pc="268439501" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="86" pc="268439614" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="87" pc="268439727" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="88" pc="268439840" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="89" pc="268439953" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="90" pc="268440066" symbol="MainLayout"/>
+        <entry filename="Rez" id="36" lineNum="93" pc="268440179" symbol="MainLayout"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="10" object="true" symbol="MarathonSkatingDatafieldView"/>
@@ -185,56 +185,56 @@
         <entry endPc="268436700" name="curSpeedValue" stackId="2" startPc="268436273"/>
         <entry endPc="268436700" name="clockValue" stackId="6" startPc="268436273"/>
         <entry endPc="268436701" name="dc" stackId="1" startPc="268436269"/>
-        <entry endPc="268436984" name="speedAsKmh" stackId="2" startPc="268436965"/>
-        <entry endPc="268436994" name="info" stackId="1" startPc="268436948"/>
-        <entry endPc="268437030" name="speedAsKmh" stackId="2" startPc="268437011"/>
-        <entry endPc="268437040" name="info" stackId="1" startPc="268436994"/>
-        <entry endPc="268437076" name="info" stackId="1" startPc="268437040"/>
-        <entry endPc="268437118" name="info" stackId="1" startPc="268437076"/>
-        <entry endPc="268437220" name="timeString" stackId="2" startPc="268437122"/>
-        <entry endPc="268437220" name="clockTime" stackId="1" startPc="268437122"/>
-        <entry endPc="268437428" name="hours" stackId="5" startPc="268437238"/>
-        <entry endPc="268437428" name="minutes" stackId="4" startPc="268437238"/>
-        <entry endPc="268437428" name="timeString" stackId="6" startPc="268437238"/>
-        <entry endPc="268437428" name="seconds" stackId="3" startPc="268437238"/>
-        <entry endPc="268437428" name="secondsTotal" stackId="2" startPc="268437238"/>
-        <entry endPc="268437441" name="info" stackId="1" startPc="268437221"/>
-        <entry endPc="268437753" name="hours" stackId="8" startPc="268437445"/>
-        <entry endPc="268437753" name="minutes" stackId="7" startPc="268437445"/>
-        <entry endPc="268437753" name="elapsedTimeInSeconds" stackId="3" startPc="268437445"/>
-        <entry endPc="268437753" name="timeString" stackId="9" startPc="268437445"/>
-        <entry endPc="268437753" name="marathonFactor" stackId="4" startPc="268437445"/>
-        <entry endPc="268437753" name="elapsedDistance" stackId="2" startPc="268437445"/>
-        <entry endPc="268437753" name="seconds" stackId="6" startPc="268437445"/>
-        <entry endPc="268437753" name="secondsTotal" stackId="5" startPc="268437445"/>
-        <entry endPc="268437754" name="info" stackId="1" startPc="268437441"/>
-        <entry endPc="268437849" name="pWidth" stackId="4" startPc="268437787"/>
-        <entry endPc="268437849" name="pY" stackId="3" startPc="268437787"/>
-        <entry endPc="268437849" name="pX" stackId="2" startPc="268437787"/>
-        <entry endPc="268437849" name="pHeight" stackId="5" startPc="268437787"/>
-        <entry endPc="268437850" name="dc" stackId="1" startPc="268437783"/>
-        <entry endPc="268438559" name="pWidth" stackId="4" startPc="268437850"/>
-        <entry endPc="268438559" name="dc" stackId="1" startPc="268437850"/>
-        <entry endPc="268438559" name="pY" stackId="3" startPc="268437850"/>
-        <entry endPc="268438559" name="pX" stackId="2" startPc="268437850"/>
-        <entry endPc="268438559" name="pHeight" stackId="5" startPc="268437850"/>
-        <entry endPc="268440449" name="rez_cmp_local_bitmap_distanceLabel" stackId="14" startPc="268438571"/>
-        <entry endPc="268440449" name="rez_cmp_local_bitmap_distanceValue" stackId="15" startPc="268438571"/>
-        <entry endPc="268440449" name="rez_cmp_local_custom_drawable_raster" stackId="3" startPc="268438571"/>
-        <entry endPc="268440449" name="rez_cmp_local_custom_drawable_45420459814331185412" stackId="2" startPc="268438571"/>
-        <entry endPc="268440449" name="rez_cmp_local_bitmap_trainingTimeLabel" stackId="12" startPc="268438571"/>
-        <entry endPc="268440449" name="rez_cmp_local_bitmap_trainingTimeValue" stackId="13" startPc="268438571"/>
-        <entry endPc="268440449" name="rez_cmp_local_bitmap_clockLabel" stackId="4" startPc="268438571"/>
-        <entry endPc="268440449" name="rez_cmp_local_bitmap_curSpeedLabel" stackId="6" startPc="268438571"/>
-        <entry endPc="268440449" name="rez_cmp_local_bitmap_avgSpeedLabel" stackId="8" startPc="268438571"/>
-        <entry endPc="268440449" name="rez_cmp_local_bitmap_clockValue" stackId="5" startPc="268438571"/>
-        <entry endPc="268440449" name="rez_cmp_local_bitmap_curSpeedValue" stackId="7" startPc="268438571"/>
-        <entry endPc="268440449" name="rez_cmp_local_bitmap_avgSpeedValue" stackId="9" startPc="268438571"/>
-        <entry endPc="268440449" name="rez_cmp_local_bitmap_marathonLabel" stackId="16" startPc="268438571"/>
-        <entry endPc="268440449" name="rez_cmp_local_bitmap_heartrateLabel" stackId="10" startPc="268438571"/>
-        <entry endPc="268440449" name="rez_cmp_local_bitmap_marathonValue" stackId="17" startPc="268438571"/>
-        <entry endPc="268440449" name="rez_cmp_local_bitmap_heartrateValue" stackId="11" startPc="268438571"/>
-        <entry endPc="268440450" name="dc" stackId="1" startPc="268438559"/>
+        <entry endPc="268436881" name="speedAsKmh" stackId="2" startPc="268436862"/>
+        <entry endPc="268436891" name="info" stackId="1" startPc="268436845"/>
+        <entry endPc="268436927" name="speedAsKmh" stackId="2" startPc="268436908"/>
+        <entry endPc="268436937" name="info" stackId="1" startPc="268436891"/>
+        <entry endPc="268436973" name="info" stackId="1" startPc="268436937"/>
+        <entry endPc="268437015" name="info" stackId="1" startPc="268436973"/>
+        <entry endPc="268437117" name="timeString" stackId="2" startPc="268437019"/>
+        <entry endPc="268437117" name="clockTime" stackId="1" startPc="268437019"/>
+        <entry endPc="268437325" name="hours" stackId="5" startPc="268437135"/>
+        <entry endPc="268437325" name="minutes" stackId="4" startPc="268437135"/>
+        <entry endPc="268437325" name="timeString" stackId="6" startPc="268437135"/>
+        <entry endPc="268437325" name="seconds" stackId="3" startPc="268437135"/>
+        <entry endPc="268437325" name="secondsTotal" stackId="2" startPc="268437135"/>
+        <entry endPc="268437338" name="info" stackId="1" startPc="268437118"/>
+        <entry endPc="268437650" name="hours" stackId="8" startPc="268437342"/>
+        <entry endPc="268437650" name="minutes" stackId="7" startPc="268437342"/>
+        <entry endPc="268437650" name="elapsedTimeInSeconds" stackId="3" startPc="268437342"/>
+        <entry endPc="268437650" name="timeString" stackId="9" startPc="268437342"/>
+        <entry endPc="268437650" name="marathonFactor" stackId="4" startPc="268437342"/>
+        <entry endPc="268437650" name="elapsedDistance" stackId="2" startPc="268437342"/>
+        <entry endPc="268437650" name="seconds" stackId="6" startPc="268437342"/>
+        <entry endPc="268437650" name="secondsTotal" stackId="5" startPc="268437342"/>
+        <entry endPc="268437651" name="info" stackId="1" startPc="268437338"/>
+        <entry endPc="268437746" name="pWidth" stackId="4" startPc="268437684"/>
+        <entry endPc="268437746" name="pY" stackId="3" startPc="268437684"/>
+        <entry endPc="268437746" name="pX" stackId="2" startPc="268437684"/>
+        <entry endPc="268437746" name="pHeight" stackId="5" startPc="268437684"/>
+        <entry endPc="268437747" name="dc" stackId="1" startPc="268437680"/>
+        <entry endPc="268438456" name="pWidth" stackId="4" startPc="268437747"/>
+        <entry endPc="268438456" name="dc" stackId="1" startPc="268437747"/>
+        <entry endPc="268438456" name="pY" stackId="3" startPc="268437747"/>
+        <entry endPc="268438456" name="pX" stackId="2" startPc="268437747"/>
+        <entry endPc="268438456" name="pHeight" stackId="5" startPc="268437747"/>
+        <entry endPc="268440346" name="rez_cmp_local_bitmap_distanceLabel" stackId="14" startPc="268438468"/>
+        <entry endPc="268440346" name="rez_cmp_local_bitmap_distanceValue" stackId="15" startPc="268438468"/>
+        <entry endPc="268440346" name="rez_cmp_local_custom_drawable_raster" stackId="3" startPc="268438468"/>
+        <entry endPc="268440346" name="rez_cmp_local_bitmap_trainingTimeLabel" stackId="12" startPc="268438468"/>
+        <entry endPc="268440346" name="rez_cmp_local_bitmap_trainingTimeValue" stackId="13" startPc="268438468"/>
+        <entry endPc="268440346" name="rez_cmp_local_custom_drawable_18602322381865710004" stackId="2" startPc="268438468"/>
+        <entry endPc="268440346" name="rez_cmp_local_bitmap_clockLabel" stackId="4" startPc="268438468"/>
+        <entry endPc="268440346" name="rez_cmp_local_bitmap_curSpeedLabel" stackId="6" startPc="268438468"/>
+        <entry endPc="268440346" name="rez_cmp_local_bitmap_avgSpeedLabel" stackId="8" startPc="268438468"/>
+        <entry endPc="268440346" name="rez_cmp_local_bitmap_clockValue" stackId="5" startPc="268438468"/>
+        <entry endPc="268440346" name="rez_cmp_local_bitmap_curSpeedValue" stackId="7" startPc="268438468"/>
+        <entry endPc="268440346" name="rez_cmp_local_bitmap_avgSpeedValue" stackId="9" startPc="268438468"/>
+        <entry endPc="268440346" name="rez_cmp_local_bitmap_marathonLabel" stackId="16" startPc="268438468"/>
+        <entry endPc="268440346" name="rez_cmp_local_bitmap_heartrateLabel" stackId="10" startPc="268438468"/>
+        <entry endPc="268440346" name="rez_cmp_local_bitmap_marathonValue" stackId="17" startPc="268438468"/>
+        <entry endPc="268440346" name="rez_cmp_local_bitmap_heartrateValue" stackId="11" startPc="268438468"/>
+        <entry endPc="268440347" name="dc" stackId="1" startPc="268438456"/>
     </localVars>
     <annotations/>
     <functions>

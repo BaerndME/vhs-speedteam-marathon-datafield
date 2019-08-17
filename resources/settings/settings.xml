@@ -1,8 +1,4 @@
 <settings>
-  <setting propertyKey="@Properties.AppVersion" title="@Strings.AppVersion">
-    <settingConfig type="alphaNumeric" readonly="true" />
-  </setting>
-  
   <setting propertyKey="@Properties.MarathonDistance" title="@Strings.MarathonDistance">
     <settingConfig type="numeric" min="1" />
   </setting>

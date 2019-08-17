@@ -119,11 +119,11 @@ class MarathonSkatingDatafieldView extends WatchUi.DataField {
     }
     
     private function saveSettings(){
-    	if ( Toybox.Application has :Storage ) {
-		    Application.Properties.setValue("AppVersion", APP_VERSION);
-		} else {
-		    Application.getApp().setProperty("AppVersion", APP_VERSION);
-		}
+//    	if ( Toybox.Application has :Storage ) {
+//		    Application.Properties.setValue("AppVersion", APP_VERSION);
+//		} else {
+//		    Application.getApp().setProperty("AppVersion", APP_VERSION);
+//		}
     }
     
     private function computeCurrentSpeed(info) {
