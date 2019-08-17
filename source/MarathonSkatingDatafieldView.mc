@@ -7,15 +7,18 @@ class MarathonSkatingDatafieldView extends WatchUi.DataField {
     hidden var averageSpeed;
     hidden var heartrate;
     hidden var distance;
+    hidden var batteryPercentage;
     
-    hidden var clockTime;
-    hidden var marathonTime;
-    hidden var trainingTime;
+    private var clockTime;
+    private var marathonTime;
+    private var trainingTime;
     
-    hidden var setting_competitionDistance;
+    private var setting_competitionDistance;
     
-    hidden var DEFAULT_TIME = "00:00:00";
-    hidden var APP_VERSION = "0.1.1";
+    private var DEFAULT_TIME = "00:00:00";
+    private var APP_VERSION = "0.1.1";
+    
+    private var fontTiny = WatchUi.loadResource(Rez.Fonts.akkuperc);
 
     function initialize() {
         DataField.initialize();
@@ -71,6 +74,8 @@ class MarathonSkatingDatafieldView extends WatchUi.DataField {
         trainingTime = computeTrainingTime(info);
         marathonTime = computeMarathonTime(info);
         
+        batteryPercentage = computeBatteryPercentage();
+        
 //        System.println("c:"+currentSpeed+" a:"+averageSpeed+" h: "+heartrate+" t: "+clockTime+" d: "+trainingTime);
     }
     
@@ -102,6 +107,8 @@ class MarathonSkatingDatafieldView extends WatchUi.DataField {
 		
         // Call parent's onUpdate(dc) to redraw the layout
         View.onUpdate(dc);
+        
+		drawBattery(dc);
     }
     
     // functions
@@ -126,7 +133,7 @@ class MarathonSkatingDatafieldView extends WatchUi.DataField {
 //		}
     }
     
-    private function computeCurrentSpeed(info) {
+    function computeCurrentSpeed(info) {
 	    if(info.currentSpeed != null) {
 	    	var speedAsKmh = info.currentSpeed * 3.6; 
             return speedAsKmh;           
@@ -213,4 +220,35 @@ class MarathonSkatingDatafieldView extends WatchUi.DataField {
 		var timeString =  Lang.format("$1$:$2$:$3$", [hours.format("%02d"), minutes.format("%02d"), seconds.format("%02d")]);
         return timeString;
     }    
+    
+    function computeBatteryPercentage(){
+		return System.getSystemStats().battery;
+    }
+    
+	function drawBattery(dc){
+		var batteryPercentage = computeBatteryPercentage();
+		
+		var x = 62;
+		var y = 36;  
+		var width = 32;
+		var height = 16;		
+		var radius = 0.15 * height;
+		var leftEnd = x - (width / 2).toNumber();
+		var upperEnd = y - (height / 2).toNumber();
+		    
+		dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
+		dc.fillRectangle(leftEnd + width+1, y-3, 2, 6);
+		
+		dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
+		dc.fillRectangle(leftEnd + 1, upperEnd, width-1, height);
+		
+		dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
+		dc.drawRectangle(leftEnd, upperEnd, width, height);
+		
+		dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
+		dc.fillRectangle(leftEnd + 2, upperEnd + 2, width - 4, height - 4);
+		
+		dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);		
+		dc.drawText(x, y - 1, fontTiny, batteryPercentage.format("%d") + "%", Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
+	}
 }
