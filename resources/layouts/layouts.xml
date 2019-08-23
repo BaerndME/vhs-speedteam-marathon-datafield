@@ -6,15 +6,15 @@
         <label id="clockLabel" x="98" y="1" color="Gfx.COLOR_DK_GRAY" font="Gfx.FONT_XTINY" />
         <label id="clockValue" x="88" y="15" color="Gfx.COLOR_BLACK" font="Gfx.FONT_LARGE" />
         <label id="curSpeedLabel" x="88" y="52" color="Gfx.COLOR_DK_GRAY" font="Gfx.FONT_XTINY" />
-        <label id="curSpeedValue" x="125" y="77" color="Gfx.COLOR_BLACK" font="Gfx.FONT_NUMBER_MILD"  justification="Graphics.TEXT_JUSTIFY_CENTER" />
+        <label id="curSpeedValue" x="125" y="72" color="Gfx.COLOR_BLACK" font="Gfx.FONT_NUMBER_MILD"  justification="Graphics.TEXT_JUSTIFY_CENTER" />
         <label id="avgSpeedLabel" x="28" y="52" color="Gfx.COLOR_DK_GRAY" font="Gfx.FONT_XTINY" />
-        <label id="avgSpeedValue" x="72" y="77" color="Gfx.COLOR_BLACK" font="Gfx.FONT_NUMBER_MILD" justification="Graphics.TEXT_JUSTIFY_RIGHT"/>
+        <label id="avgSpeedValue" x="72" y="72" color="Gfx.COLOR_BLACK" font="Gfx.FONT_NUMBER_MILD" justification="Graphics.TEXT_JUSTIFY_RIGHT"/>
         <label id="heartrateLabel" x="172" y="52" color="Gfx.COLOR_DK_GRAY" font="Gfx.FONT_XTINY" />
-        <label id="heartrateValue" x="168" y="70" color="Gfx.COLOR_BLACK" font="Gfx.FONT_NUMBER_MEDIUM" />
+        <label id="heartrateValue" x="168" y="65" color="Gfx.COLOR_BLACK" font="Gfx.FONT_NUMBER_MEDIUM" />
         <label id="trainingTimeLabel" x="55" y="157" color="Gfx.COLOR_DK_GRAY" font="Gfx.FONT_XTINY" />
-        <label id="trainingTimeValue" x="17" y="120" color="Gfx.COLOR_BLACK" font="Gfx.FONT_LARGE" />
-        <label id="distanceLabel" x="155" y="155" color="Gfx.COLOR_DK_GRAY" font="Gfx.FONT_XTINY" />
-        <label id="distanceValue" x="140" y="120" color="Gfx.COLOR_BLACK" font="Gfx.FONT_NUMBER_MILD" />
+        <label id="trainingTimeValue" x="17" y="125" color="Gfx.COLOR_BLACK" font="Gfx.FONT_LARGE" />
+        <label id="distanceLabel" x="155" y="157" color="Gfx.COLOR_DK_GRAY" font="Gfx.FONT_XTINY" />
+        <label id="distanceValue" x="140" y="122" color="Gfx.COLOR_BLACK" font="Gfx.FONT_NUMBER_MILD" />
         <label id="marathonLabel" x="96" y="208" color="Gfx.COLOR_DK_GRAY" font="Gfx.FONT_XTINY" />
         <label id="marathonValue" x="75" y="176" color="Gfx.COLOR_BLACK" font="Gfx.FONT_LARGE" />       
  

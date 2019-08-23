@@ -203,9 +203,6 @@ class MarathonSkatingDatafieldView extends WatchUi.DataField {
     		return DEFAULT_TIME;		
     	}
     	var elapsedTimeInSeconds = info.elapsedTime / 1000f;
-    	
-//    	var elapsedDistance = 12;
-//    	var elapsedTimeInSeconds = 180;
 	    
     	var marathonFactor = setting_competitionDistance / elapsedDistance; 
     	var secondsTotal = elapsedTimeInSeconds  * marathonFactor;    	    	
@@ -224,31 +221,16 @@ class MarathonSkatingDatafieldView extends WatchUi.DataField {
     function computeBatteryPercentage(){
 		return System.getSystemStats().battery;
     }
-    
+
 	function drawBattery(dc){
 		var batteryPercentage = computeBatteryPercentage();
+
+		var batteryBlocks = (batteryPercentage / 10).toNumber();
+
+		dc.setColor(Graphics.COLOR_DK_GREEN, Graphics.COLOR_DK_GREEN);
 		
-		var x = 62;
-		var y = 36;  
-		var width = 32;
-		var height = 16;		
-		var radius = 0.15 * height;
-		var leftEnd = x - (width / 2).toNumber();
-		var upperEnd = y - (height / 2).toNumber();
-		    
-		dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
-		dc.fillRectangle(leftEnd + width+1, y-3, 2, 6);
-		
-		dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
-		dc.fillRectangle(leftEnd + 1, upperEnd, width-1, height);
-		
-		dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
-		dc.drawRectangle(leftEnd, upperEnd, width, height);
-		
-		dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
-		dc.fillRectangle(leftEnd + 2, upperEnd + 2, width - 4, height - 4);
-		
-		dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);		
-		dc.drawText(x, y - 1, fontTiny, batteryPercentage.format("%d") + "%", Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
+		for( var i = 0; i < batteryBlocks +0; i++ ) {
+			dc.fillRectangle(7 + i * 23, 116, 18, 4);			
+		}
 	}
 }

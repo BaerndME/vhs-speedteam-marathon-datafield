@@ -71,71 +71,60 @@
         <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="19" lineNum="138" pc="268436895" symbol="computeCurrentSpeed"/>
         <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="19" lineNum="139" pc="268436911" symbol="computeCurrentSpeed"/>
         <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="19" lineNum="141" pc="268436917" symbol="computeCurrentSpeed"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="26" lineNum="224" pc="268437684" symbol="computeBatteryPercentage"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="26" lineNum="225" pc="268437688" symbol="computeBatteryPercentage"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="228" pc="268437713" symbol="drawBattery"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="229" pc="268437717" symbol="drawBattery"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="231" pc="268437730" symbol="drawBattery"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="232" pc="268437737" symbol="drawBattery"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="233" pc="268437744" symbol="drawBattery"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="234" pc="268437751" symbol="drawBattery"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="235" pc="268437758" symbol="drawBattery"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="236" pc="268437768" symbol="drawBattery"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="237" pc="268437790" symbol="drawBattery"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="239" pc="268437812" symbol="drawBattery"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="240" pc="268437848" symbol="drawBattery"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="242" pc="268437889" symbol="drawBattery"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="243" pc="268437925" symbol="drawBattery"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="245" pc="268437957" symbol="drawBattery"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="246" pc="268437993" symbol="drawBattery"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="248" pc="268438013" symbol="drawBattery"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="249" pc="268438049" symbol="drawBattery"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="251" pc="268438093" symbol="drawBattery"/>
-        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="252" pc="268438129" symbol="drawBattery"/>
-        <entry filename="Rez" id="34" lineNum="21" pc="268438207" symbol="initialize"/>
-        <entry filename="Rez" id="34" lineNum="22" pc="268438211" symbol="initialize"/>
-        <entry filename="Rez" id="35" lineNum="25" pc="268438236" symbol="draw"/>
-        <entry filename="Rez" id="35" lineNum="26" pc="268438240" symbol="draw"/>
-        <entry filename="Rez" id="35" lineNum="27" pc="268438247" symbol="draw"/>
-        <entry filename="Rez" id="35" lineNum="28" pc="268438254" symbol="draw"/>
-        <entry filename="Rez" id="35" lineNum="29" pc="268438267" symbol="draw"/>
-        <entry filename="Rez" id="35" lineNum="30" pc="268438280" symbol="draw"/>
-        <entry filename="Rez" id="36" lineNum="33" pc="268438303" symbol="drawComplex"/>
-        <entry filename="Rez" id="36" lineNum="34" pc="268438307" symbol="drawComplex"/>
-        <entry filename="Rez" id="36" lineNum="35" pc="268438343" symbol="drawComplex"/>
-        <entry filename="Rez" id="36" lineNum="36" pc="268438387" symbol="drawComplex"/>
-        <entry filename="Rez" id="36" lineNum="38" pc="268438423" symbol="drawComplex"/>
-        <entry filename="Rez" id="36" lineNum="39" pc="268438459" symbol="drawComplex"/>
-        <entry filename="Rez" id="36" lineNum="41" pc="268438521" symbol="drawComplex"/>
-        <entry filename="Rez" id="36" lineNum="42" pc="268438557" symbol="drawComplex"/>
-        <entry filename="Rez" id="36" lineNum="44" pc="268438619" symbol="drawComplex"/>
-        <entry filename="Rez" id="36" lineNum="45" pc="268438655" symbol="drawComplex"/>
-        <entry filename="Rez" id="36" lineNum="47" pc="268438717" symbol="drawComplex"/>
-        <entry filename="Rez" id="36" lineNum="48" pc="268438753" symbol="drawComplex"/>
-        <entry filename="Rez" id="36" lineNum="50" pc="268438815" symbol="drawComplex"/>
-        <entry filename="Rez" id="36" lineNum="51" pc="268438851" symbol="drawComplex"/>
-        <entry filename="Rez" id="36" lineNum="53" pc="268438913" symbol="drawComplex"/>
-        <entry filename="Rez" id="36" lineNum="54" pc="268438949" symbol="drawComplex"/>
-        <entry filename="Rez" id="38" lineNum="69" pc="268439012" symbol="MainLayout"/>
-        <entry filename="Rez" id="38" lineNum="73" pc="268439024" symbol="MainLayout"/>
-        <entry filename="Rez" id="38" lineNum="74" pc="268439048" symbol="MainLayout"/>
-        <entry filename="Rez" id="38" lineNum="75" pc="268439084" symbol="MainLayout"/>
-        <entry filename="Rez" id="38" lineNum="76" pc="268439097" symbol="MainLayout"/>
-        <entry filename="Rez" id="38" lineNum="78" pc="268439113" symbol="MainLayout"/>
-        <entry filename="Rez" id="38" lineNum="79" pc="268439226" symbol="MainLayout"/>
-        <entry filename="Rez" id="38" lineNum="80" pc="268439339" symbol="MainLayout"/>
-        <entry filename="Rez" id="38" lineNum="81" pc="268439452" symbol="MainLayout"/>
-        <entry filename="Rez" id="38" lineNum="82" pc="268439585" symbol="MainLayout"/>
-        <entry filename="Rez" id="38" lineNum="83" pc="268439698" symbol="MainLayout"/>
-        <entry filename="Rez" id="38" lineNum="84" pc="268439831" symbol="MainLayout"/>
-        <entry filename="Rez" id="38" lineNum="85" pc="268439944" symbol="MainLayout"/>
-        <entry filename="Rez" id="38" lineNum="86" pc="268440057" symbol="MainLayout"/>
-        <entry filename="Rez" id="38" lineNum="87" pc="268440170" symbol="MainLayout"/>
-        <entry filename="Rez" id="38" lineNum="88" pc="268440283" symbol="MainLayout"/>
-        <entry filename="Rez" id="38" lineNum="89" pc="268440396" symbol="MainLayout"/>
-        <entry filename="Rez" id="38" lineNum="90" pc="268440509" symbol="MainLayout"/>
-        <entry filename="Rez" id="38" lineNum="91" pc="268440622" symbol="MainLayout"/>
-        <entry filename="Rez" id="38" lineNum="94" pc="268440735" symbol="MainLayout"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="26" lineNum="221" pc="268437684" symbol="computeBatteryPercentage"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="26" lineNum="222" pc="268437688" symbol="computeBatteryPercentage"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="225" pc="268437713" symbol="drawBattery"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="226" pc="268437717" symbol="drawBattery"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="228" pc="268437730" symbol="drawBattery"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="230" pc="268437749" symbol="drawBattery"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="232" pc="268437785" symbol="drawBattery"/>
+        <entry filename="D:\\git\\vhs-speedteam-marathon-datafield\\source\\MarathonSkatingDatafieldView.mc" id="27" lineNum="233" pc="268437806" symbol="drawBattery"/>
+        <entry filename="Rez" id="34" lineNum="21" pc="268437861" symbol="initialize"/>
+        <entry filename="Rez" id="34" lineNum="22" pc="268437865" symbol="initialize"/>
+        <entry filename="Rez" id="35" lineNum="25" pc="268437890" symbol="draw"/>
+        <entry filename="Rez" id="35" lineNum="26" pc="268437894" symbol="draw"/>
+        <entry filename="Rez" id="35" lineNum="27" pc="268437901" symbol="draw"/>
+        <entry filename="Rez" id="35" lineNum="28" pc="268437908" symbol="draw"/>
+        <entry filename="Rez" id="35" lineNum="29" pc="268437921" symbol="draw"/>
+        <entry filename="Rez" id="35" lineNum="30" pc="268437934" symbol="draw"/>
+        <entry filename="Rez" id="36" lineNum="33" pc="268437957" symbol="drawComplex"/>
+        <entry filename="Rez" id="36" lineNum="34" pc="268437961" symbol="drawComplex"/>
+        <entry filename="Rez" id="36" lineNum="35" pc="268437997" symbol="drawComplex"/>
+        <entry filename="Rez" id="36" lineNum="36" pc="268438041" symbol="drawComplex"/>
+        <entry filename="Rez" id="36" lineNum="38" pc="268438077" symbol="drawComplex"/>
+        <entry filename="Rez" id="36" lineNum="39" pc="268438113" symbol="drawComplex"/>
+        <entry filename="Rez" id="36" lineNum="41" pc="268438175" symbol="drawComplex"/>
+        <entry filename="Rez" id="36" lineNum="42" pc="268438211" symbol="drawComplex"/>
+        <entry filename="Rez" id="36" lineNum="44" pc="268438273" symbol="drawComplex"/>
+        <entry filename="Rez" id="36" lineNum="45" pc="268438309" symbol="drawComplex"/>
+        <entry filename="Rez" id="36" lineNum="47" pc="268438371" symbol="drawComplex"/>
+        <entry filename="Rez" id="36" lineNum="48" pc="268438407" symbol="drawComplex"/>
+        <entry filename="Rez" id="36" lineNum="50" pc="268438469" symbol="drawComplex"/>
+        <entry filename="Rez" id="36" lineNum="51" pc="268438505" symbol="drawComplex"/>
+        <entry filename="Rez" id="36" lineNum="53" pc="268438567" symbol="drawComplex"/>
+        <entry filename="Rez" id="36" lineNum="54" pc="268438603" symbol="drawComplex"/>
+        <entry filename="Rez" id="36" lineNum="56" pc="268438665" symbol="drawComplex"/>
+        <entry filename="Rez" id="36" lineNum="57" pc="268438701" symbol="drawComplex"/>
+        <entry filename="Rez" id="38" lineNum="72" pc="268438764" symbol="MainLayout"/>
+        <entry filename="Rez" id="38" lineNum="76" pc="268438776" symbol="MainLayout"/>
+        <entry filename="Rez" id="38" lineNum="77" pc="268438800" symbol="MainLayout"/>
+        <entry filename="Rez" id="38" lineNum="78" pc="268438836" symbol="MainLayout"/>
+        <entry filename="Rez" id="38" lineNum="79" pc="268438849" symbol="MainLayout"/>
+        <entry filename="Rez" id="38" lineNum="81" pc="268438865" symbol="MainLayout"/>
+        <entry filename="Rez" id="38" lineNum="82" pc="268438978" symbol="MainLayout"/>
+        <entry filename="Rez" id="38" lineNum="83" pc="268439091" symbol="MainLayout"/>
+        <entry filename="Rez" id="38" lineNum="84" pc="268439204" symbol="MainLayout"/>
+        <entry filename="Rez" id="38" lineNum="85" pc="268439337" symbol="MainLayout"/>
+        <entry filename="Rez" id="38" lineNum="86" pc="268439450" symbol="MainLayout"/>
+        <entry filename="Rez" id="38" lineNum="87" pc="268439583" symbol="MainLayout"/>
+        <entry filename="Rez" id="38" lineNum="88" pc="268439696" symbol="MainLayout"/>
+        <entry filename="Rez" id="38" lineNum="89" pc="268439809" symbol="MainLayout"/>
+        <entry filename="Rez" id="38" lineNum="90" pc="268439922" symbol="MainLayout"/>
+        <entry filename="Rez" id="38" lineNum="91" pc="268440035" symbol="MainLayout"/>
+        <entry filename="Rez" id="38" lineNum="92" pc="268440148" symbol="MainLayout"/>
+        <entry filename="Rez" id="38" lineNum="93" pc="268440261" symbol="MainLayout"/>
+        <entry filename="Rez" id="38" lineNum="94" pc="268440374" symbol="MainLayout"/>
+        <entry filename="Rez" id="38" lineNum="97" pc="268440487" symbol="MainLayout"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="10" object="true" symbol="MarathonSkatingDatafieldView"/>
@@ -241,42 +230,37 @@
         <entry endPc="268437683" name="seconds" stackId="6" startPc="268437375"/>
         <entry endPc="268437683" name="secondsTotal" stackId="5" startPc="268437375"/>
         <entry endPc="268437684" name="info" stackId="1" startPc="268437371"/>
-        <entry endPc="268438206" name="radius" stackId="7" startPc="268437717"/>
-        <entry endPc="268438206" name="height" stackId="6" startPc="268437717"/>
-        <entry endPc="268438206" name="x" stackId="3" startPc="268437717"/>
-        <entry endPc="268438206" name="upperEnd" stackId="9" startPc="268437717"/>
-        <entry endPc="268438206" name="width" stackId="5" startPc="268437717"/>
-        <entry endPc="268438206" name="batteryPercentage" stackId="2" startPc="268437717"/>
-        <entry endPc="268438206" name="leftEnd" stackId="8" startPc="268437717"/>
-        <entry endPc="268438206" name="y" stackId="4" startPc="268437717"/>
-        <entry endPc="268438207" name="dc" stackId="1" startPc="268437713"/>
-        <entry endPc="268438302" name="pWidth" stackId="4" startPc="268438240"/>
-        <entry endPc="268438302" name="pY" stackId="3" startPc="268438240"/>
-        <entry endPc="268438302" name="pX" stackId="2" startPc="268438240"/>
-        <entry endPc="268438302" name="pHeight" stackId="5" startPc="268438240"/>
-        <entry endPc="268438303" name="dc" stackId="1" startPc="268438236"/>
-        <entry endPc="268439012" name="pWidth" stackId="4" startPc="268438303"/>
-        <entry endPc="268439012" name="dc" stackId="1" startPc="268438303"/>
-        <entry endPc="268439012" name="pY" stackId="3" startPc="268438303"/>
-        <entry endPc="268439012" name="pX" stackId="2" startPc="268438303"/>
-        <entry endPc="268439012" name="pHeight" stackId="5" startPc="268438303"/>
-        <entry endPc="268440902" name="rez_cmp_local_bitmap_distanceLabel" stackId="14" startPc="268439024"/>
-        <entry endPc="268440902" name="rez_cmp_local_bitmap_distanceValue" stackId="15" startPc="268439024"/>
-        <entry endPc="268440902" name="rez_cmp_local_custom_drawable_raster" stackId="3" startPc="268439024"/>
-        <entry endPc="268440902" name="rez_cmp_local_bitmap_trainingTimeLabel" stackId="12" startPc="268439024"/>
-        <entry endPc="268440902" name="rez_cmp_local_bitmap_trainingTimeValue" stackId="13" startPc="268439024"/>
-        <entry endPc="268440902" name="rez_cmp_local_bitmap_clockLabel" stackId="4" startPc="268439024"/>
-        <entry endPc="268440902" name="rez_cmp_local_bitmap_curSpeedLabel" stackId="6" startPc="268439024"/>
-        <entry endPc="268440902" name="rez_cmp_local_bitmap_avgSpeedLabel" stackId="8" startPc="268439024"/>
-        <entry endPc="268440902" name="rez_cmp_local_bitmap_clockValue" stackId="5" startPc="268439024"/>
-        <entry endPc="268440902" name="rez_cmp_local_bitmap_curSpeedValue" stackId="7" startPc="268439024"/>
-        <entry endPc="268440902" name="rez_cmp_local_bitmap_avgSpeedValue" stackId="9" startPc="268439024"/>
-        <entry endPc="268440902" name="rez_cmp_local_custom_drawable_74873580515854260610" stackId="2" startPc="268439024"/>
-        <entry endPc="268440902" name="rez_cmp_local_bitmap_marathonLabel" stackId="16" startPc="268439024"/>
-        <entry endPc="268440902" name="rez_cmp_local_bitmap_heartrateLabel" stackId="10" startPc="268439024"/>
-        <entry endPc="268440902" name="rez_cmp_local_bitmap_marathonValue" stackId="17" startPc="268439024"/>
-        <entry endPc="268440902" name="rez_cmp_local_bitmap_heartrateValue" stackId="11" startPc="268439024"/>
-        <entry endPc="268440903" name="dc" stackId="1" startPc="268439012"/>
+        <entry endPc="268437860" name="i" stackId="4" startPc="268437806"/>
+        <entry endPc="268437860" name="batteryPercentage" stackId="2" startPc="268437717"/>
+        <entry endPc="268437860" name="batteryBlocks" stackId="3" startPc="268437717"/>
+        <entry endPc="268437861" name="dc" stackId="1" startPc="268437713"/>
+        <entry endPc="268437956" name="pWidth" stackId="4" startPc="268437894"/>
+        <entry endPc="268437956" name="pY" stackId="3" startPc="268437894"/>
+        <entry endPc="268437956" name="pX" stackId="2" startPc="268437894"/>
+        <entry endPc="268437956" name="pHeight" stackId="5" startPc="268437894"/>
+        <entry endPc="268437957" name="dc" stackId="1" startPc="268437890"/>
+        <entry endPc="268438764" name="pWidth" stackId="4" startPc="268437957"/>
+        <entry endPc="268438764" name="dc" stackId="1" startPc="268437957"/>
+        <entry endPc="268438764" name="pY" stackId="3" startPc="268437957"/>
+        <entry endPc="268438764" name="pX" stackId="2" startPc="268437957"/>
+        <entry endPc="268438764" name="pHeight" stackId="5" startPc="268437957"/>
+        <entry endPc="268440654" name="rez_cmp_local_bitmap_distanceLabel" stackId="14" startPc="268438776"/>
+        <entry endPc="268440654" name="rez_cmp_local_bitmap_distanceValue" stackId="15" startPc="268438776"/>
+        <entry endPc="268440654" name="rez_cmp_local_custom_drawable_raster" stackId="3" startPc="268438776"/>
+        <entry endPc="268440654" name="rez_cmp_local_custom_drawable_97429930818574793135" stackId="2" startPc="268438776"/>
+        <entry endPc="268440654" name="rez_cmp_local_bitmap_trainingTimeLabel" stackId="12" startPc="268438776"/>
+        <entry endPc="268440654" name="rez_cmp_local_bitmap_trainingTimeValue" stackId="13" startPc="268438776"/>
+        <entry endPc="268440654" name="rez_cmp_local_bitmap_clockLabel" stackId="4" startPc="268438776"/>
+        <entry endPc="268440654" name="rez_cmp_local_bitmap_curSpeedLabel" stackId="6" startPc="268438776"/>
+        <entry endPc="268440654" name="rez_cmp_local_bitmap_avgSpeedLabel" stackId="8" startPc="268438776"/>
+        <entry endPc="268440654" name="rez_cmp_local_bitmap_clockValue" stackId="5" startPc="268438776"/>
+        <entry endPc="268440654" name="rez_cmp_local_bitmap_curSpeedValue" stackId="7" startPc="268438776"/>
+        <entry endPc="268440654" name="rez_cmp_local_bitmap_avgSpeedValue" stackId="9" startPc="268438776"/>
+        <entry endPc="268440654" name="rez_cmp_local_bitmap_marathonLabel" stackId="16" startPc="268438776"/>
+        <entry endPc="268440654" name="rez_cmp_local_bitmap_heartrateLabel" stackId="10" startPc="268438776"/>
+        <entry endPc="268440654" name="rez_cmp_local_bitmap_marathonValue" stackId="17" startPc="268438776"/>
+        <entry endPc="268440654" name="rez_cmp_local_bitmap_heartrateValue" stackId="11" startPc="268438776"/>
+        <entry endPc="268440655" name="dc" stackId="1" startPc="268438764"/>
     </localVars>
     <annotations/>
     <functions>
