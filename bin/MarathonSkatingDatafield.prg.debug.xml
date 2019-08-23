@@ -263,7 +263,6 @@
         <entry endPc="268440902" name="rez_cmp_local_bitmap_distanceLabel" stackId="14" startPc="268439024"/>
         <entry endPc="268440902" name="rez_cmp_local_bitmap_distanceValue" stackId="15" startPc="268439024"/>
         <entry endPc="268440902" name="rez_cmp_local_custom_drawable_raster" stackId="3" startPc="268439024"/>
-        <entry endPc="268440902" name="rez_cmp_local_custom_drawable_14036985191139662953" stackId="2" startPc="268439024"/>
         <entry endPc="268440902" name="rez_cmp_local_bitmap_trainingTimeLabel" stackId="12" startPc="268439024"/>
         <entry endPc="268440902" name="rez_cmp_local_bitmap_trainingTimeValue" stackId="13" startPc="268439024"/>
         <entry endPc="268440902" name="rez_cmp_local_bitmap_clockLabel" stackId="4" startPc="268439024"/>
@@ -272,6 +271,7 @@
         <entry endPc="268440902" name="rez_cmp_local_bitmap_clockValue" stackId="5" startPc="268439024"/>
         <entry endPc="268440902" name="rez_cmp_local_bitmap_curSpeedValue" stackId="7" startPc="268439024"/>
         <entry endPc="268440902" name="rez_cmp_local_bitmap_avgSpeedValue" stackId="9" startPc="268439024"/>
+        <entry endPc="268440902" name="rez_cmp_local_custom_drawable_74873580515854260610" stackId="2" startPc="268439024"/>
         <entry endPc="268440902" name="rez_cmp_local_bitmap_marathonLabel" stackId="16" startPc="268439024"/>
         <entry endPc="268440902" name="rez_cmp_local_bitmap_heartrateLabel" stackId="10" startPc="268439024"/>
         <entry endPc="268440902" name="rez_cmp_local_bitmap_marathonValue" stackId="17" startPc="268439024"/>

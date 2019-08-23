@@ -179,7 +179,7 @@ class MarathonSkatingDatafieldView extends WatchUi.DataField {
 		
 			var seconds = secondsTotal.toLong() % 60;
 			var minutes = (secondsTotal.toLong() / 60) % 60;
-			var hours   = (secondsTotal.toLong() / 360) % 24;
+			var hours   = (secondsTotal.toLong() / 3600) % 24;
 			
 			var timeString =  Lang.format("$1$:$2$:$3$", [hours.format("%02d"), minutes.format("%02d"), seconds.format("%02d")]);
             return timeString;
